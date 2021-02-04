@@ -1,4 +1,4 @@
-Linear Regression Line
+# Linear Regression Line
 
 
 -The goal of this program is to compute the values of the linear equation y = mx + b while using matrix operations. This program will read in a text file of points stored in the form of a 2 x N matrix and calculate the regression line for those points using built in matrix operations. 
@@ -10,6 +10,19 @@ Make file is included for all dependencies.
 example run: 
 
 ./ols points100.txt
+
+# Language
+C++ 11
+
+# Sample output
+Based on the file points100.txt here is the solution for the equation y = mx + b.
+
+Optimal vector Beta: 
+|1.97942|
+|4.78617|
+
+
+Number of operations to obtain answer: 24
 
 
 
