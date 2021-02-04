@@ -11,6 +11,9 @@ example run:
 
 ./ols points100.txt
 
+# Motivation
+This was my first project for my data-structures and algorithms class in undergrad. 
+
 # Language
 C++ 11
 
